@@ -25,7 +25,7 @@ Creo en la soberanía técnica: no esperes a tener el hardware perfecto; conquis
 ### 🔬 Proyectos Destacados
 
 *   [**Frankenswarm**](https://github.com/joanfgarcia/frankenswarm) - Mezcla de Expertos físicamente distribuida en hardware local (Prolog Gate + BitNet 1.58b) con neurogénesis y neuroplasticidad dirigida por dolor continuo.
-*   [**Red-Pill**](https://github.com/joanfgarcia/sharing) - Infraestructura para el desarrollo y despliegue de agentes autónomos soberanos libres de suscripciones en la nube.
+*   [**Red-Pill**](https://github.com/joanfgarcia/antigravity-red-pill) - Infraestructura para el desarrollo y despliegue de agentes autónomos soberanos libres de suscripciones en la nube.
 
 ### ⚙️ Principios de Desarrollo
 
